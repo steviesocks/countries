@@ -1,2 +1,0 @@
-(this.webpackJsonpcountries=this.webpackJsonpcountries||[]).push([[4],{118:function(t,e,n){"use strict";n.r(e);n(0);var i=n(116),r=n(119),a=n(121),c=n(113),s=n(10);function u(t){var e=t.index,n=t.style,i=t.data;return Object(s.jsx)(r.a,{button:!0,style:n,children:Object(s.jsx)(a.a,{primary:i[e].name})},Object(c.v4)())}e.default=function(t){var e=t.countries;return Object(s.jsx)(i.a,{height:400,width:500,itemSize:46,itemCount:e.length,itemData:e,children:u})}}}]);
-//# sourceMappingURL=4.206c43a9.chunk.js.map
